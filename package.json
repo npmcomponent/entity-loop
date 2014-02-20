@@ -1,0 +1,14 @@
+{
+  "name": "entity-loop",
+  "description": "hybrid game loop",
+  "version": "0.0.1",
+  "keywords": [
+    "game",
+    "loop"
+  ],
+  "dependencies": {
+    "component-emitter": "git://github.com/npmcomponent/component-emitter.git",
+    "component-raf": "git://github.com/npmcomponent/component-raf.git"
+  },
+  "license": "MIT"
+}

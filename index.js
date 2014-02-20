@@ -11,8 +11,8 @@
  * Module dependencies.
  */
 
-var raf = require('raf');
-var Emitter = require('emitter');
+var raf = require('component-raf');
+var Emitter = require('component-emitter');
 
 /**
  * Expose `Loop`.
